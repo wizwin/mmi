@@ -11,5 +11,8 @@ Currently the following images are supported:
 6. Non-HLOS
 
 TODO
-- Need to support more and latest formats
+- Need to support more and latest formats:
+  - metadata.img
+  - system_ext
+  - vbmeta
 - Need to work on better command line parsing (It is very bad at the moment)
